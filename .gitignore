@@ -1,0 +1,15 @@
+# Credentials & tokens — never commit these
+canva_token.json
+google_token.json
+google_credentials.json
+
+# QR code output (generated at runtime)
+*.png
+
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+.env
+venv/
+.venv/
